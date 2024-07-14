@@ -2,7 +2,7 @@
 
 ## 📖 About Me
 
-- 💼 Cybersecurity professional & occasional Flutter developer
+- 💼 Cybersecurity professional & occasional FlutterFire developer
 - 💻 I'm currently learning...
 ```
 - Smart Contract Auditing!
