@@ -5,9 +5,9 @@
 - 💼 Cybersecurity professional & occasional FlutterFire developer
 - 💻 I'm currently learning...
 ```
-- Smart Contract Auditing!
+- Smart Contract Auditing
+- Echidna Fuzzing
 ```
-
 
 ## 📜 Certifications
 <a href="" target="_blank"><img src="https://images.credly.com/size/340x340/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png" class="cert" alt='CISSP' width="100px"></a>
