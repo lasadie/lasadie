@@ -6,7 +6,7 @@
 - 💻 I'm currently learning...
 ```
 - Smart Contract Auditing
-- Echidna Fuzzing
+- Fuzzing w Echidna
 ```
 
 ## 📜 Certifications
