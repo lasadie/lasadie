@@ -16,7 +16,6 @@
 
 
 ## ➡️ Shortcuts
-#### Walkthroughs
 - [Ethernaut CTF](https://github.com/lasadie/ethernaut_ctfs)
 - [CodeHawks First Flights](https://github.com/lasadie/codehawks_first_flight)
 
