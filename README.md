@@ -14,13 +14,14 @@
 <a href="" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/100785805" class="cert" alt='CBSP' width="100px"></a>
 
 ## 🏆 Achievements
-<img src="https://github.com/user-attachments/assets/5cc54cd2-5c5a-4887-830f-19a76c3fc27b" width="25" height="25"> **Secureum**
-- RACE-31 - #6 of Top 32
+| <img src="https://github.com/user-attachments/assets/5cc54cd2-5c5a-4887-830f-19a76c3fc27b" width="25" height="25"> **Secureum** |
+|---------------------------------------------------------|
+| RACE-31 - #6 of Top 32 |
 
 
 ## ➡️ Shortcuts
-- [Ethernaut CTF](https://github.com/lasadie/ethernaut_ctfs)
-- [CodeHawks First Flights](https://github.com/lasadie/codehawks_first_flight)
+- [Ethernaut CTF Walkthrough](https://github.com/lasadie/ethernaut_ctfs)
+- [CodeHawks First Flights Audit](https://github.com/lasadie/codehawks_first_flight)
 
 
 
