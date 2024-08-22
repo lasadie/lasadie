@@ -6,6 +6,7 @@
 - 💻 I'm currently learning...
 ```
 - Fuzzing w Echidna
+- Damn Vulnerable Defi CTF
 ```
 
 ## 📜 Certifications
