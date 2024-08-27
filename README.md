@@ -5,8 +5,8 @@
 - 💼 Cybersecurity professional & occasional FlutterFire developer
 - 💻 I'm currently learning...
 ```
+- Intensive Colearning by DeFiHackLabs -> https://github.com/DeFiHackLabs/Web3-CTF-Intensive-CoLearning
 - Fuzzing w Echidna
-- Damn Vulnerable Defi CTF
 ```
 
 ## 📜 Certifications
@@ -23,8 +23,7 @@ _Coming soon..._
 | RACE-31 - #6 of Top 32 |
 
 
-## ➡️ Shortcuts
-📖 My learning journal
+## 📖 My learning journal
 - [Ethernaut CTF Walkthrough](https://github.com/lasadie/ethernaut_ctfs)
 - [CodeHawks First Flights Audit](https://github.com/lasadie/codehawks_first_flight)
 
