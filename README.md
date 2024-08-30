@@ -24,8 +24,10 @@ _Coming soon..._
 
 
 ## 📖 My learning journal
-- [Ethernaut CTF Walkthrough](https://github.com/lasadie/ethernaut_ctfs)
+- [Ethernaut POC](https://github.com/lasadie/ethernaut_ctfs)
+- [DamnVulnerableDefi POC](https://github.com/lasadie/Web3-CTF-Intensive-CoLearning/tree/main/Writeup/0xLasadie/damnvulnerabledefi)
 - [CodeHawks First Flights Audit](https://github.com/lasadie/codehawks_first_flight)
+
 
 
 
