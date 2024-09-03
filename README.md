@@ -6,6 +6,7 @@
 - 💻 I'm currently learning...
 ```
 - Intensive Colearning by DeFiHackLabs -> https://github.com/DeFiHackLabs/Web3-CTF-Intensive-CoLearning
+  (DamnVulnerableDefi v4, EthTaipei 2023 CTF, Paradigm 2023 CTF)
 - Fuzzing w Echidna
 ```
 
