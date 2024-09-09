@@ -27,9 +27,8 @@ _Coming soon..._
 ## 📖 My learning journal
 - [Ethernaut POC](https://github.com/lasadie/ethernaut_ctfs)
 - [DamnVulnerableDefi POC](https://github.com/lasadie/Web3-CTF-Intensive-CoLearning/tree/main/Writeup/0xLasadie/damnvulnerabledefi)
+- [EthTaipei CTF 2023 POC](https://github.com/lasadie/Web3-CTF-Intensive-CoLearning/tree/main/Writeup/0xLasadie/EthTaipei_CTF_2023)
 - [CodeHawks First Flights Audit](https://github.com/lasadie/codehawks_first_flight)
-
-
 
 
 
