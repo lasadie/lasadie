@@ -9,9 +9,9 @@
 ```
 
 ## 📜 Certifications
-<a href="" target="_blank"><img src="https://images.credly.com/size/340x340/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png" class="cert" alt='CISSP' width="100px"></a>
-<a href="" target="_blank"><img src="https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" class="cert" alt='CISSP' width="100px"></a>
-<a href="" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/100785805" class="cert" alt='CBSP' width="100px"></a>
+<a href="https://www.isc2.org/certifications/cissp" target="_blank"><img src="https://images.credly.com/size/340x340/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png" class="cert" alt='CISSP' width="100px"></a>
+<a href="https://www.isc2.org/certifications/cc" target="_blank"><img src="https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" class="cert" alt='CC' width="100px"></a>
+<a href="https://www.blockchain-council.org/certifications/certified-blockchain-security-professional-training/" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/100785805" class="cert" alt='CBSP' width="100px"></a>
 
 ## 🔍 Bug Bounties | Audits
 _Coming soon..._
