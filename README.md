@@ -14,7 +14,7 @@
 <a href="https://www.blockchain-council.org/certifications/certified-blockchain-security-professional-training/" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/100785805" class="cert" alt='CBSP' width="100px"></a>
 
 ## 🔍 Bug Bounties | Audits
-🦅 **First Flights**  
+🦅 **CodeHawks First Flights**  
 | Contest | H | M | L | Report|
 |:--:|:--:|:--:|:--:|:--:|
 | #27 Trick or Treat| - | - | 1 | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/27%3ATrickOrTreat/audit_report.md)|
