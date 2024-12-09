@@ -15,7 +15,7 @@
 
 ## 🔍 Bug Bounties | Audits
 🦅 **CodeHawks First Flights**  
-| Contest | H | M | L | Report|
+| Contest | H | M | L | Audit Report|
 |:--:|:--:|:--:|:--:|:--:|
 | #27 Trick or Treat| - | - | 1 | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/27%3ATrickOrTreat/audit_report.md)|
 | #29 TwentyOne| 2 | 1 | - | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/29%3ATwentyOne/audit_report.md)|
