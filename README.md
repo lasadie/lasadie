@@ -2,7 +2,8 @@
 
 ## 📖 About Me
 
-- 💼 Cybersecurity professional & occasional FlutterFire developer
+- 💼 Cybersecurity professional
+- <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.prod.website-files.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg" class="cert" alt='CC' width="15"></a> Occasional FlutterFire developer
 - 💻 I'm currently learning...
 ```
 - Fuzzing w Echidna
