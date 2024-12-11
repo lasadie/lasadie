@@ -28,9 +28,13 @@
 
 
 ## 🚩 CTFs
-- [Ethernaut POC](https://github.com/lasadie/ethernaut_ctfs)
-- [DamnVulnerableDefi POC](https://github.com/lasadie/Web3-CTF-Intensive-CoLearning/tree/main/Writeup/0xLasadie/damnvulnerabledefi)
-- [EthTaipei CTF 2023 POC](https://github.com/lasadie/Web3-CTF-Intensive-CoLearning/tree/main/Writeup/0xLasadie/EthTaipei_CTF_2023)
+| CTF | Progress | POC |
+|:--:|:--:|:--:|
+| Ethernaut| 26/33 | [Link](https://github.com/lasadie/ethernaut_ctfs)|
+| DamnVulnerableDefi | 16/18 | [Link](https://github.com/lasadie/Web3-CTF-Intensive-CoLearning/tree/main/Writeup/0xLasadie/damnvulnerabledefi)|
+| EthTaipei 2023 | 5/5 | [Link](https://github.com/lasadie/Web3-CTF-Intensive-CoLearning/tree/main/Writeup/0xLasadie/EthTaipei_CTF_2023)|
+| OnlyPwner | 6/17 | [Link](https://onlypwner.xyz/challenges)|
+
 
 
 
