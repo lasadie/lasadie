@@ -18,8 +18,10 @@
 🦅 **CodeHawks First Flights**  
 | Contest | H | M | L | Audit Report|
 |:--:|:--:|:--:|:--:|:--:|
-| #27 Trick or Treat| - | - | 1 | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/27%3ATrickOrTreat/audit_report.md)|
+| #31 Christmas Dinner| 3 | 3 | 2 | [Link]()|
 | #29 TwentyOne| 2 | 1 | - | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/29%3ATwentyOne/audit_report.md)|
+| #27 Trick or Treat| - | - | 1 | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/27%3ATrickOrTreat/audit_report.md)|
+
 
 ## 🏆 Achievements
 | <img src="https://github.com/user-attachments/assets/5cc54cd2-5c5a-4887-830f-19a76c3fc27b" width="25" height="25"> **Secureum** |
