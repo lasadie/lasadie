@@ -15,12 +15,18 @@
 <a href="https://www.blockchain-council.org/certifications/certified-blockchain-security-professional-training/" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/100785805" class="cert" alt='CBSP' width="100px"></a>
 
 ## 🔍 Bug Bounties | Audits
+<img src="https://avatars.githubusercontent.com/u/79111793?s=200&v=4" width="25" height="25"> **Code4rena**  
+| Contest | Rank | H | M | L | Audit Report |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | TBC | - | 1 | 8 | TBC |
+| [Lambo.win](https://code4rena.com/audits/2024-12-lambowin) | TBC | 1 | 1 | 7 | TBC |
+
 🦅 **CodeHawks First Flights**  
 | Contest | Rank | H | M | L | Audit Report|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| #31 Christmas Dinner| #6 | 3 | 3 | 2 | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/31%3AChristmasDinner/audit_report.md)|
-| #29 TwentyOne| #9 | 2 | 1 | - | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/29%3ATwentyOne/audit_report.md)|
-| #27 Trick or Treat| - | - | - | 1 | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/27%3ATrickOrTreat/audit_report.md)|
+| [#31 Christmas Dinner](https://codehawks.cyfrin.io/c/2024-12-christmas-dinner) | #6 | 3 | 3 | 2 | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/31%3AChristmasDinner/audit_report.md)|
+| [#29 TwentyOne](https://codehawks.cyfrin.io/c/2024-11-twentyone) | #9 | 2 | 1 | - | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/29%3ATwentyOne/audit_report.md)|
+| [#27 Trick or Treat](https://codehawks.cyfrin.io/c/2024-10-trick-or-treat) | - | - | - | 1 | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/27%3ATrickOrTreat/audit_report.md)|
 
 
 ## 🏆 Achievements
