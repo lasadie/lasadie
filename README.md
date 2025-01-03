@@ -18,7 +18,7 @@
 🦅 **CodeHawks First Flights**  
 | Contest | H | M | L | Audit Report|
 |:--:|:--:|:--:|:--:|:--:|
-| #31 Christmas Dinner| 3 | 3 | 2 | [Link]()|
+| #31 Christmas Dinner| 3 | 3 | 2 | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/31%3AChristmasDinner/audit_report.md)|
 | #29 TwentyOne| 2 | 1 | - | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/29%3ATwentyOne/audit_report.md)|
 | #27 Trick or Treat| - | - | 1 | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/27%3ATrickOrTreat/audit_report.md)|
 
