@@ -16,10 +16,10 @@
 
 ## 🔍 Bug Bounties | Audits
 <img src="https://avatars.githubusercontent.com/u/79111793?s=200&v=4" width="25" height="25"> **Code4rena**  
-| Contest | Rank | H | M | L | Audit Report |
+| Date | Contest | Rank | H | M | Audit Report |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | TBC | - | 1 | 8 | TBC |
-| [Lambo.win](https://code4rena.com/audits/2024-12-lambowin) | TBC | 1 | 1 | 7 | TBC |
+| 10 Dec 24 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | TBC | - | 1 | TBC |
+| 3 Dec 24 | [Lambo.win](https://code4rena.com/audits/2024-12-lambowin) | - | 1 | 1 | [Link](https://github.com/lasadie/code4rena/blob/main/lambo_win/audit_report.md) |
 
 🦅 **CodeHawks First Flights**  
 | Contest | Rank | H | M | L | Audit Report|
