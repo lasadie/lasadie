@@ -19,7 +19,7 @@
 | Date | Contest | Rank | H | M | Audit Report |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | 10 Dec 24 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | TBC | - | 1 | TBC |
-| 3 Dec 24 | [Lambo.win](https://code4rena.com/audits/2024-12-lambowin) | - | 1 | 1 | [Link](https://github.com/lasadie/code4rena/blob/main/lambo_win/audit_report.md) |
+| 3 Dec 24 | [Lambo.win](https://code4rena.com/audits/2024-12-lambowin) | #51 | 1 | 1 | [Link](https://github.com/lasadie/code4rena/blob/main/lambo_win/audit_report.md) |
 
 🦅 **CodeHawks First Flights**  
 | Contest | Rank | H | M | L | Audit Report|
