@@ -24,9 +24,12 @@
 🦅 **CodeHawks First Flights**  
 | Contest | Rank | H | M | L | Audit Report|
 |:--:|:--:|:--:|:--:|:--:|:--:|
+| [#35 Inheritable Smart Contract Wallet](https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet) | TBC | TBC | TBC | TBC | [Link]()|
 | [#31 Christmas Dinner](https://codehawks.cyfrin.io/c/2024-12-christmas-dinner) | #6 | 3 | 3 | 2 | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/31%3AChristmasDinner/audit_report.md)|
 | [#29 TwentyOne](https://codehawks.cyfrin.io/c/2024-11-twentyone) | #9 | 2 | 1 | - | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/29%3ATwentyOne/audit_report.md)|
 | [#27 Trick or Treat](https://codehawks.cyfrin.io/c/2024-10-trick-or-treat) | - | - | - | 1 | [Link](https://github.com/lasadie/codehawks_first_flight/blob/master/27%3ATrickOrTreat/audit_report.md)|
+
+
 
 
 ## 🏆 Achievements
