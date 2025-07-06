@@ -4,11 +4,12 @@
 
 - 💼 Cybersecurity professional
 - <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.prod.website-files.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg" class="cert" alt='CC' width="15"></a> Occasional FlutterFire fullstack developer
+- 🧠 Interested in Artificial Intelligence, Blockchain/Web3
 - 💻 I'm currently learning...
 ```
 
 ```
-## Projects & Tools
+## 🔧 Projects & Tools
 - [langgraph_research_agent](https://github.com/lasadie/langgraph_research_agents) - Multi agent research system built with Langgraph and Gemini LLM
 
 ## 📜 Certifications
