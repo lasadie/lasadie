@@ -11,6 +11,7 @@
 ```
 ## 🔧 Projects & Tools
 - [langgraph_research_agent](https://github.com/lasadie/langgraph_research_agents) - Multi agent research system built with Langgraph and Gemini LLM
+- [ai_integration_plan](https://github.com/lasadie/ai_integration_plan/) - A document template for workflow AI integration plan
 
 ## 📜 Certifications
 <a href="https://www.isc2.org/certifications/cissp" target="_blank"><img src="https://images.credly.com/size/340x340/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png" class="cert" alt='CISSP' width="100px"></a>
