@@ -10,7 +10,7 @@
 
 ```
 ## 🔧 Projects & Tools
-- [solidity_smart_contracts](https://github.com/lasadie/solidity_smart_contracts) A collection of Solidity smart contracts
+- [solidity_smart_contracts](https://github.com/lasadie/solidity_smart_contracts) A collection of Solidity smart contracts such as ERC20, ERC721 and more..
 - [langgraph_research_agent](https://github.com/lasadie/langgraph_research_agents) - Multi agent research system built with Langgraph and Gemini LLM
 - [ai_integration_plan](https://github.com/lasadie/ai_integration_plan/) - A document template for workflow AI integration plan
 
