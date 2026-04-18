@@ -7,12 +7,13 @@
 - 🧠 Interested in Artificial Intelligence, Blockchain/Web3
 - 💻 I'm currently learning...
 ```
-
+harness eng
 ```
 ## 🔧 Projects & Tools
-- [solidity_smart_contracts](https://github.com/lasadie/solidity_smart_contracts) A collection of Solidity smart contracts such as ERC20, ERC721 and more..
+- [rag_chatbot](https://github.com/lasadie/rag_chatbot) - RAG Chatbot with ChromaDB, Langchain, Gemini LLM & Short-term memory
 - [langgraph_research_agent](https://github.com/lasadie/langgraph_research_agents) - Multi agent research system built with Langgraph and Gemini LLM
 - [ai_integration_plan](https://github.com/lasadie/ai_integration_plan/) - A document template for workflow AI integration plan
+- [solidity_smart_contracts](https://github.com/lasadie/solidity_smart_contracts) A collection of Solidity smart contracts such as ERC20, ERC721 and more..
 
 ## 📜 Certifications
 <a href="https://www.isc2.org/certifications/cissp" target="_blank"><img src="https://images.credly.com/size/340x340/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png" class="cert" alt='CISSP' width="100px"></a>
